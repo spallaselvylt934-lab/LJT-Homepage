@@ -15,7 +15,6 @@ name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu — first-year PhD candidate at HKUST NLP Group, working on natural language processing and machine learning."
 url                      : https://spallaselvylt934-lab.github.io # The base hostname & protocol for your site
 baseurl                  : "/LJT-Homepage" # the subpath of your site
-epgository_placeholder: ""
 repository               : "spallaselvylt934-lab/LJT-Homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
